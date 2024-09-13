@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js, 
 - 💞️ I’m looking to collaborate on Nice, Fun & Well-Design projects ;)
 - 📫 How to reach me ? erickzeng.dev@gmail.com 
-- ⚡ Fun fact: I also love no-code/low-code tools :P
+- ⚡ Fun fact: Coding is my vidéo game :P
 
 <!---
 ErickZeng-11/ErickZeng-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
