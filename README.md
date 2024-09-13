@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js, 
 - 💞️ I’m looking to collaborate on Nice, Fun & Well-Design projects ;)
 - 📫 How to reach me ? erickzeng.dev@gmail.com 
-- 😄 Pronouns: don't know :)
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I also love no-code/low-code tools :P
 
 <!---
