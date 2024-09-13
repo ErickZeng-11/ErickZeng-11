@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErickZeng-11
+- 👋 Hi, I’m Erick Zeng
 - 👀 I’m interested in web, web dev, web design
 - 🌱 I’m currently learning Vue.js, 
 - 💞️ I’m looking to collaborate on Nice, Fun & Well-Design projects ;)
